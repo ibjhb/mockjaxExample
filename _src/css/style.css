@@ -1,0 +1,41 @@
+/** Global **/
+.body{
+	min-height: 250px;
+}
+.navbar .nav{
+	float: right;
+}
+
+@media (min-width: 1200px) {
+	.bottom-bar {
+	    position: fixed;
+	}
+}
+
+.bottom-bar {
+	border-radius: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+	margin-bottom: 0px;
+}
+
+.bottom-bar .navbar-inner{
+	border-radius: 0px;
+}
+.bottom-bar .brand{
+	font-size: 12px;
+	padding: 16px 20px 12px;
+}
+
+.title {
+	margin: 0 0 15px 0;
+}
+
+/** Home Page **/
+.main .body{
+	min-height: 450px;
+}
+.socialLink{
+	margin: 10px 0 30px 0;
+}
