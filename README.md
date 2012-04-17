@@ -1,40 +1,18 @@
-# ja.mesbrown.com Bootstrap
+# MockJax Adventures
 
-ja.mesbrown.com Bootstrap provides a starting point for new repositories for blog posts on my
-http://ja.mesbrown.com blog.  The code is largely for my own use, but feel free to use it
-in anyway you'd like.  If there's something I could improve, feel free to send a pull request.
-
-## Quick start 
-
-Clone the repo `git clone git@github.com:ibjhb/ja.mesbrown.com-Bootstrap`, or [download the latest release](https://github.com/ibjhb/ja.mesbrown.com-Bootstrap/zipball/master).
+A blog post URL is forthcoming.
 
 ## Usage
 
 Edit the files as necessary.  You'll probably want to check out the index.html
 
-Versioning
-----------
-
-I will maintain versioning under the Semantic Versioning guidelines as much as possible.
-
-Releases will be numbered with the follow format:
-
-`<major>.<minor>.<patch>`
-
-And constructed with the following guidelines:
-
-* Breaking backward compatibility bumps the major
-* New additions without breaking backward compatibility bumps the minor
-* Bug fixes and misc changes bump the patch
-
-For more information on SemVer, please visit http://semver.org/.
 
 Bug tracker
 -----------
 
 Have a bug? Please create an issue here on GitHub!
 
-https://github.com/ibjhb/ja.mesbrown.com-Bootstrap/issues
+https://github.com/ibjhb/mockjaxExample/issues
 
 
 Twitter account
