@@ -1,6 +1,6 @@
-# MockJax Adventures
+# Mockjax Adventures
 
-A blog post URL is forthcoming.
+You can view more information about Mockjax on this post: http://ja.mesbrown.com/2012/04/adventures-in-mockjax/
 
 ## Usage
 
